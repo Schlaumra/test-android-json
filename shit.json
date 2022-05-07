@@ -1,72 +1,69 @@
 {
-	"result": [
-	{
-	    "word_src": {
-	    "word_source": "https://testseite.com",
-	    "word": "Kuh",
-	    "description": "Ein Tier mit Kopf",
-	    "example": [
-	    {
-		"example_source": "https://testseite.com",
-		"example": "Die Kuh ist eine Kuh"
-	    }
-	    ]
-	},
-	    "translations": [
-	    {
-		"word_source": "https://testseite.com",
-		"word": "Cow",
-		"description": "An animal with head",
-		"example": [
-		{
-		    "example_source": "https://testseite.com",
-		    "example": "A cow is a cow"
-		}
-		],
-		"grammar":
-		{
-		    "word_type": "noun",
-		    "plural": "the cows"
-		}
-	    },
-	    {
-		"word_source": "https://testseite.com",
-		"word": "to cow",
-		"description": "to eat a cow",
-		"example": [
-		{
-		    "example_source": "https://testseite.com",
-		    "example": "to cow a cow with a cow"
-		}
-		],
-		"grammar":
-		{
-		    "word_type": "verb",
-		    "base_form": "to cow",
-		    "past_simple": "quewo",
-		    "past_participle": "ahhhhhhhhhhhhh"
-		}
-	    },
-	    {
-		"word_source": "https://testseite.com",
-		"word": "cow",
-		"description": "cow is a color",
-		"example": [
-		{
-		    "example_source": "https://testseite.com",
-		    "example": "she looks cow"
-		}
-		],
-		"grammar":
-		{
-		    "word_type": "adjective",
-		    "adjective": "cow",
-		    "comparative": "cower",
-		    "superlative": "cowest"
-		}
-	    }
-	    ]
-	}
-	],
-	"success": 1
+  "result": [
+    {
+      "word_src": {
+        "word_source": "https://testseite.com",
+        "word": "Kuh",
+        "description": "Ein Tier mit Kopf",
+        "example": [
+          {
+            "example_source": "https://testseite.com",
+            "example": "Die Kuh ist eine Kuh"
+          }
+        ]
+      },
+      "translations": [
+        {
+          "word_source": "https://testseite.com",
+          "word": "Cow",
+          "description": "An animal with head",
+          "example": [
+            {
+              "example_source": "https://testseite.com",
+              "example": "A cow is a cow"
+            }
+          ],
+          "grammar": {
+            "word_type": "noun",
+            "plural": "the cows"
+          }
+        },
+        {
+          "word_source": "https://testseite.com",
+          "word": "to cow",
+          "description": "to eat a cow",
+          "example": [
+            {
+              "example_source": "https://testseite.com",
+              "example": "to cow a cow with a cow"
+            }
+          ],
+          "grammar": {
+            "word_type": "verb",
+            "base_form": "to cow",
+            "past_simple": "quewo",
+            "past_participle": "ahhhhhhhhhhhhh"
+          }
+        },
+        {
+          "word_source": "https://testseite.com",
+          "word": "cow",
+          "description": "cow is a color",
+          "example": [
+            {
+              "example_source": "https://testseite.com",
+              "example": "she looks cow"
+            }
+          ],
+          "grammar": {
+            "word_type": "adjective",
+            "adjective": "cow",
+            "comparative": "cower",
+            "superlative": "cowest"
+          }
+        }
+      ]
+    }
+  ],
+  "success": 1
 }
